@@ -1,0 +1,9 @@
+{
+	"name": "demoadfitclouds02",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82d938f6-8fe1-4500-8c66-54fefcda3631",
+		"tenantId": "e63631ba-2ed6-48b8-8b35-de95e422e6b7"
+	}
+}
